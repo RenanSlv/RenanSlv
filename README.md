@@ -6,7 +6,7 @@
 ## Ferramentas e Tecnologias
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://github.com/RenanSlv/RenanSlv/assets/111816931/338b9c97-29a6-4372-875f-2afcf470c14f" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/111816931/258663411-338b9c97-29a6-4372-875f-2afcf470c14f.jpg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
