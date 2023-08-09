@@ -3,6 +3,9 @@
 
 - 🌱 Atualmente estou me aprofundando em Front-End
 
+## GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenanSlv&bg_color=000&border_color=30A3DC&title_color=BLUE&text_color=FFF)
+
 ## Ferramentas e Tecnologias
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
