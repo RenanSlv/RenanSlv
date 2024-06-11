@@ -1,7 +1,7 @@
 # Olá, me chamo Renan Romulo ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou me aprofundando em Front-End
+- 🌱 Atualmente estou me aprofundando em Cyber Segurança e Back End
 
 ## GitHub Stats
 
