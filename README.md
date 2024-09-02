@@ -1,7 +1,7 @@
 # Olá, me chamo Renan Romulo ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou me aprofundando em Cyber Segurança e Back End
+- 🌱 Atualmente estou me aprofundando em Cybersegurança e Back-End
 
 ## GitHub Stats
 
@@ -17,7 +17,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+ </div>
 
 ## Site Xmen
 <a href="https://renanslv.github.io/ProjetoXMEN"> <img src="https://user-images.githubusercontent.com/111816931/258783390-3b5acde5-8322-40f3-adb5-a874fa820997.svg" width="150" height="50"></a>
